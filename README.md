@@ -40,7 +40,7 @@
 
 - 🔭 Currently working on **Deep Learning** and contributing to open-source projects
 - 🌱 Exploring **Data Science, Java, DSA, Flask, Spring Boot, Python, and Machine Learning**
-- 👨‍💻 Check out my projects: [My Portfolio](https://deploy-port-q55w994s4-17297781karthiks-projects.vercel.app/)
+- 👨‍💻 Check out my projects: [My Portfolio](https://portfolio-2bk1.vercel.app/)
 - 📫 Reach me at: **karthik.1si22cs078@gmail.com**
 - 💡 Always eager to collaborate on innovative projects!
 
